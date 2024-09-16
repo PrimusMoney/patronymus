@@ -1,2 +1,13 @@
-# patronymus
-Patronymus is a free service to help people share their identity over the phone in a secure way
+# Patronymus
+*Who's over the phone?*
+## Introduction
+Patronymus is a free service to help people share their identity over the phone in a secure way.
+
+You can test our service (currently in beta) at https://patronymus.com
+
+## Use Cases
+### Is that an S or an F?
+Do you have sometimes difficulties communicating your name or email over the phone? With Patronymus you can send you details while continuing talking with the person on the phone.
+
+## Contact us
+> You can contact us by posting [issues](https://github.com/PrimusMoney/patronymus/issues) on GitHub or by sending us an email at contact@primusmoney.com
